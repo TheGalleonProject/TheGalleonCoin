@@ -21,7 +21,7 @@
   "properties": {
     "files": [
       {
-        "uri": "http://exemple.com/image.png",
+        "uri": "https://pbs.twimg.com/profile_images/1748057361078493184/n2P9K2XA_400x400.jpg",
         "type": "image/png"
       }
     ],
@@ -33,4 +33,5 @@
       }
     ]
   }
+  
 }
