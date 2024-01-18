@@ -2,7 +2,7 @@
   "name": "The Galleon",
   "symbol": "GALLEON",
   "description": "The Galleon Coin, Only for wizards muggles doesnt breath on moonn.",
-  "seller_fee_basis_points": 0, // Frais de vente en points de base (100 = 1%)
+  "seller_fee_basis_points": 0,
   "image": "https://pbs.twimg.com/profile_images/1748057361078493184/n2P9K2XA_400x400.jpg",
   "attributes": [
     {
