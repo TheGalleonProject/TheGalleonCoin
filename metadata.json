@@ -1,0 +1,36 @@
+{
+  "name": "The Galleon",
+  "symbol": "GALLEON",
+  "description": "The Galleon Coin, Only for wizards muggles doesnt breath on moonn.",
+  "seller_fee_basis_points": 0, // Frais de vente en points de base (100 = 1%)
+  "image": "https://pbs.twimg.com/profile_images/1748057361078493184/n2P9K2XA_400x400.jpg",
+  "attributes": [
+    {
+      "trait_type": "Rareté",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Humour",
+      "value": "Élevé"
+    }
+  ],
+  "collection": {
+    "name": "Collection de Memes",
+    "family": "Memes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "http://exemple.com/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4Qg3RJ3SqC3A5igRWo5u7qMBb8t8YqhcrguUVoS15cou",
+        "share": 100
+      }
+    ]
+  }
+}
